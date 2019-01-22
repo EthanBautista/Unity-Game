@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 35aa6dde95cb88e4aa78761189b4397c
+timeCreated: 1465242869
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Camera
+    100004: Cube.001
+    100006: Head
+    100008: Head_end
+    100010: Lower Arm.L
+    100012: Lower Arm.L_end
+    100014: Lower Arm.R
+    100016: Lower Arm.R_end
+    100018: Lower Body
+    100020: //RootNode
+    100022: Upper Arm IK.L
+    100024: Upper Arm IK.L_end
+    100026: Upper Arm IK.R
+    100028: Upper Arm IK.R_end
+    100030: Upper Arm.L
+    100032: Upper Arm.R
+    100034: Upper Body
+    400000: Armature
+    400002: Camera
+    400004: Cube.001
+    400006: Head
+    400008: Head_end
+    400010: Lower Arm.L
+    400012: Lower Arm.L_end
+    400014: Lower Arm.R
+    400016: Lower Arm.R_end
+    400018: Lower Body
+    400020: //RootNode
+    400022: Upper Arm IK.L
+    400024: Upper Arm IK.L_end
+    400026: Upper Arm IK.R
+    400028: Upper Arm IK.R_end
+    400030: Upper Arm.L
+    400032: Upper Arm.R
+    400034: Upper Body
+    4300000: Cube.001
+    7400000: Armature|Armature.001|Armature|Action|Armature|Action
+    7400002: Armature|Armature.001|Armature|CubeAction|Armature|CubeAction
+    7400004: Armature|Armature.001|Armature|Idle|Armature|Idle
+    7400006: Armature|Armature.001|Armature|Shoot|Armature|Shoot
+    7400008: Armature|Armature.001|Armature|walk.001|Armature|walk.001
+    7400010: Armature|Armature.001|Armature|walk.002|Armature|walk.002
+    7400012: Armature|Armature.001|Armature|Walk|Armature|Walk
+    7400014: Armature|Armature.001|Armature|walk|Armature|walk
+    7400016: Armature|Camera.001|Camera|Action|Camera|Action
+    7400018: Armature|Camera.001|Camera|CubeAction|Camera|CubeAction
+    7400020: Armature|Camera.001|Camera|Walk|Camera|Walk
+    7400022: Armature|Cube.002|Cube.001|Action|Cube.001|Action
+    7400024: Armature|Cube.002|Cube.001|CubeAction|Cube.001|CubeAction
+    7400026: Armature|Cube.002|Cube.001|walk|Cube.001|walk
+    7400028: Armature|Cube.002|Cube.001|Walk|Cube.001|Walk
+    7400030: Armature|Shoot
+    7400032: Armature|walk
+    7400034: Armature|walk.001
+    7400036: Cube.001|Camera.001|Camera|Action|Camera|Action
+    7400038: Cube.001|Camera.001|Camera|CubeAction|Camera|CubeAction
+    7400040: Cube.001|Camera.001|Camera|Walk|Camera|Walk
+    7400042: Cube.001|Cube.002|Cube.001|Action|Cube.001|Action
+    7400044: Cube.001|Cube.002|Cube.001|CubeAction|Cube.001|CubeAction
+    7400046: Cube.001|Cube.002|Cube.001|walk|Cube.001|walk
+    7400048: Cube.001|Cube.002|Cube.001|Walk|Cube.001|Walk
+    7400050: Cube.001|walk
+    7400052: Camera|Camera.001|Camera|Action|Camera|Action
+    7400054: Camera|Camera.001|Camera|CubeAction|Camera|CubeAction
+    7400056: Camera|Camera.001|Camera|Walk|Camera|Walk
+    7400058: Camera|Cube.002|Cube.001|Action|Cube.001|Action
+    7400060: Camera|Cube.002|Cube.001|CubeAction|Cube.001|CubeAction
+    7400062: Camera|Cube.002|Cube.001|walk|Cube.001|walk
+    7400064: Camera|Cube.002|Cube.001|Walk|Cube.001|Walk
+    9500000: //RootNode
+    13700000: Cube.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
